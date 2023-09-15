@@ -1,3 +1,7 @@
 Linea de texto a activ31.txt
+<<<<<<< HEAD
 Linea 1 a master
 Linea segunda a master
+=======
+Más lineas añadidas al archivo activ31.txt
+>>>>>>> actividad3
