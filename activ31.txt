@@ -1,2 +1,7 @@
 Texto para archivo activ31
+<<<<<<< HEAD
 Otra linea mas
+=======
+una linea en rama actividad3
+segunda linea en rama actividad3
+>>>>>>> actividad3
